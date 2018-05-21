@@ -6,7 +6,7 @@
 //   iCrawl <icrawltogo@gmail.com> (https://github.com/iCrawl)
 // License: MIT
 
-declare module 'discord.js' {
+declare module 'hulk.js' {
 	import { EventEmitter } from 'events';
 	import { Stream, Readable, Writable } from 'stream';
 	import { ChildProcess } from 'child_process';
